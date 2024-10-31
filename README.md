@@ -40,7 +40,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 1. Open your terminal and clone the repository:
    ```bash
-   git clone https://github.com/SahilTwitZ/Netflix-.git
+   git clone https://github.com/SahilTwitZ/Netflix-Clone.git
    cd Netflix-
    ```
 
