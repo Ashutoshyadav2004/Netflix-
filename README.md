@@ -85,7 +85,7 @@ Make sure you have the following installed:
 - You can register, log in, and browse movies. Favorites can be managed from the main interface.
 
 ## Live Demo
-You can view the live version of the application here: [Live Demo](https://your-live-demo-url.com) 🌐
+You can view the live version of the application here: [Live Demo](https://netflix-clone-mymv.onrender.com/) 🌐
 
 ## API Integration
 The application integrates with the [TMDB API](https://www.themoviedb.org/documentation/api) to fetch movie data. Make sure to sign up and get your API key if needed for extended features.
