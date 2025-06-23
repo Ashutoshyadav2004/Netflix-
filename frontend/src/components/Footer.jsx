@@ -12,7 +12,7 @@ const Footer = () => {
             rel='noreferrer'
             className='font-medium underline underline-offset-4'
           >
-            Shahil
+            Ashutosh
           </a>
           . Check out the source code on{" "}
           <a

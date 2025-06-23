@@ -1,6 +1,7 @@
 import dotenv from "dotenv";
+import path from "path";
 
-dotenv.config();
+dotenv.config({ path: path.resolve(path.dirname(""), "backend/.env") });
 
 export const ENV_VARS = {
 	MONGO_URI: process.env.MONGO_URI,
